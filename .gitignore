@@ -106,4 +106,4 @@ Temporary Items
 .apdisk
 
 #Connection Database
-src/java/com/team4/connect/SingletonConnection.java
+src/main/java/com/team4/connect/SingletonConnection.java
